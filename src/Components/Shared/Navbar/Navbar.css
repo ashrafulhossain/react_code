@@ -1,0 +1,12 @@
+@media screen and (max-width:600px){
+
+
+.parent{
+    display:flex;
+    justify-content: space-between;
+}
+.logo-div{
+    margin-left: 50px;
+    
+}
+}
